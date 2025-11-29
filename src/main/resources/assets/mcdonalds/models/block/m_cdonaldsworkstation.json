@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/blast_furnace_top",
+    "up": "minecraft:block/smooth_stone",
+    "north": "minecraft:block/blast_furnace_front",
+    "east": "mcdonalds:block/mcdonald",
+    "south": "minecraft:block/blast_furnace_side",
+    "west": "mcdonalds:block/mcdonald",
+    "particle": "minecraft:block/blast_furnace_top"
+  },
+  "render_type": "solid"
+}

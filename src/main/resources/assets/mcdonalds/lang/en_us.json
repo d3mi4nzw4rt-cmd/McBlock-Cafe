@@ -1,0 +1,10 @@
+{
+  "block.mcdonalds.m_cdonaldsworkstation": "MC donalds workstation",
+  "entity.minecraft.villager.mcdonalds.mcdonalds": "Mcdonalds worker",
+  "item.mcdonalds.bigmac": "Bigmac",
+  "item.mcdonalds.fries": "Fries",
+  "item.mcdonalds.happy_meal": "Happy Meal",
+  "item.mcdonalds.mc_flurry": "Mc Flurry",
+  "item.mcdonalds.mc_nuggets": "Mc Nuggets",
+  "item_group.mcdonalds.mcdonaldstab": "Mcdonalds"
+}
